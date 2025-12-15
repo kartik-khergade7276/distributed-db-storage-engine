@@ -1,11 +1,7 @@
 # Distributed Database Storage Engine
 
 This is a **minimal log-structured key–value storage engine** written in Java.
-It is designed to be:
 
-- Simple enough to read in an interview.
-- Realistic enough to talk about segments, log-structured storage, indexing and compaction.
-- Fully runnable with `mvn test` and a tiny CLI demo.
 
 ## Features
 
